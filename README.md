@@ -14,7 +14,7 @@ This repository contains code for [ICML 2019 The Natural Language of Actions](ht
 The code is divided into the three domains tested in the original paper: QuickDraw,
 Navigation, and StarCraft2.
 
-![Alt Text](starcraft_all_races.png)
+![Alt Text](starcraft.png)
 
 ## Datasets
 All three folders contain the corpus of actions used, except for StarCraft2, where the file size of
